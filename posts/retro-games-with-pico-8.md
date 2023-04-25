@@ -4,6 +4,7 @@ subtitle: "8-bit games are a great way to learn and expand your portfolio."
 date: "2020-12-19"
 cr: ["https://www.artstation.com/shizuorin"]
 ---
+
 check!!!!!!!!!!!!!!!!!
 ![[27a1c14ad1c01cade54f72c49f88b8ff.jpg]]
 After watching [High Score](https://www.youtube.com/watch?v=B4jopG1wX88) on Netflix, I was suddenly inspired to develop a retro-style game. I think it was a combination of the aesthetics and nostalgia that motivated me.
@@ -12,7 +13,7 @@ It turned out to be a pretty fun experience, and something I'd recommend as a we
 
 In this post, I'll be discussing why you should try your hand at retro-game development, and explain some of the technical limitations you'll be facing.
 
-![images/pico-8 demo](/images/jelpi_demo.gif)
+![images/pico-8 demo](./images/jelpi_demo.gif)
 
 ## Why you should build a retro game
 
